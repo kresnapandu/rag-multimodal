@@ -1,4 +1,4 @@
-#Multimodal RAG
+## Multimodal RAG
 
 A production-ready **Retrieval-Augmented Generation** system optimised for **telecommunications hardware datasheets** (BTS, RRU, antennas, optical transceivers, routers, switches).
 
