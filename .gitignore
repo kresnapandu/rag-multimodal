@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# Environment secrets
+.env
+.env.local
+.env.*.local
+
+# Vector DB — large binary files, regenerate with /ingest
+db/
+
+# Exported metrics CSV — regenerate with /export
+metrics/
+*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Unstructured extraction cache
+.unstructured/
+figures/

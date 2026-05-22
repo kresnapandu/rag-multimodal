@@ -1,0 +1,8 @@
+{"question": "What is the maximum output power of the base station in dBm?", "gold_sources": ["bts_datasheet.pdf"], "k": 5}
+{"question": "Which frequency bands does the Remote Radio Unit support?", "gold_sources": ["rru_spec.pdf"], "k": 5}
+{"question": "What is the VSWR specification of the antenna port?", "gold_sources": ["antenna_datasheet.pdf"], "k": 5}
+{"question": "What is the maximum data rate supported on the fronthaul interface?", "gold_sources": ["oru_datasheet.pdf"], "k": 3}
+{"question": "What cooling method is used in the outdoor cabinet?", "gold_sources": ["cabinet_spec.pdf"], "k": 5}
+{"question": "What is the operating temperature range of the optical transceiver?", "gold_sources": ["sfp_datasheet.pdf"], "k": 5}
+{"question": "Does the router support OSPF and BGP routing protocols?", "gold_sources": ["router_datasheet.pdf"], "k": 5}
+{"question": "What is the total weight of the base station?", "gold_sources": ["bts_datasheet.pdf"], "k": 3}

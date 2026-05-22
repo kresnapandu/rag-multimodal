@@ -1,0 +1,23 @@
+# LangChain core
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-chroma>=0.1.0
+langchain-experimental>=0.3.0
+langchain-community>=0.3.0
+
+# Vector database
+chromadb>=0.5.0
+
+# OpenAI SDK
+openai>=1.40.0
+
+# Multimodal document parsing
+unstructured[pdf,image]>=0.15.0
+pillow>=10.0.0
+
+# Environment
+python-dotenv>=1.0.0
+
+# File-type detection — choose based on OS:
+python-magic-bin>=0.4.14; sys_platform == "win32"
+python-magic>=0.4.27; sys_platform != "win32"
